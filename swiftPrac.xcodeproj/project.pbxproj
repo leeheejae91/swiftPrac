@@ -14,6 +14,7 @@
 		0FD66ADD1C60331B00AEBA6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FD66ADB1C60331B00AEBA6A /* LaunchScreen.storyboard */; };
 		0FD66AE81C60331B00AEBA6A /* swiftPracTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD66AE71C60331B00AEBA6A /* swiftPracTests.swift */; };
 		0FD66AF31C60331B00AEBA6A /* swiftPracUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD66AF21C60331B00AEBA6A /* swiftPracUITests.swift */; };
+		0FD66B011C60336D00AEBA6A /* helloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FD66B001C60336D00AEBA6A /* helloWorld.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0FD66AEE1C60331B00AEBA6A /* swiftPracUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swiftPracUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FD66AF21C60331B00AEBA6A /* swiftPracUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftPracUITests.swift; sourceTree = "<group>"; };
 		0FD66AF41C60331B00AEBA6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FD66B001C60336D00AEBA6A /* helloWorld.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = helloWorld.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				0FD66AD91C60331B00AEBA6A /* Assets.xcassets */,
 				0FD66ADB1C60331B00AEBA6A /* LaunchScreen.storyboard */,
 				0FD66ADE1C60331B00AEBA6A /* Info.plist */,
+				0FD66B001C60336D00AEBA6A /* helloWorld.swift */,
 			);
 			path = swiftPrac;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			files = (
 				0FD66AD51C60331B00AEBA6A /* ViewController.swift in Sources */,
 				0FD66AD31C60331B00AEBA6A /* AppDelegate.swift in Sources */,
+				0FD66B011C60336D00AEBA6A /* helloWorld.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
