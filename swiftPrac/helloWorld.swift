@@ -11,3 +11,7 @@ import Foundation
 func hello(){
     print("helloWorld");
 }
+
+func hello2(){
+    print("helloWorld");
+}
